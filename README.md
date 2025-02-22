@@ -1,2 +1,2 @@
-# Hotel-Management
-Application developed in JAVA/SQL to manage hotel reservations
+# JAVA
+Application (Desktop and console) developed in JAVA/SQL
